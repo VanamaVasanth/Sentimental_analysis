@@ -126,11 +126,6 @@ Customer: "Hi, I'm interested in buying the new 4K TV you have on sale, but I ne
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## **Contact**
 For any queries, suggestions, or collaboration opportunities, feel free to reach out at [your-email@example.com](vasanthvanama1.com).
 
